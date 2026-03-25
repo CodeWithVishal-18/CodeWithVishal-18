@@ -1,18 +1,130 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:60a5fa&height=200&section=header&text=Vishal%20Shukla&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Vishal Shukla</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=60A5FA&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Frontend+Developer;Ex-Manual+Tester;Always+Learning+New+Things🚀" />
+</h3>
+
+---
+
 # 💫 About Me:
 👋 Hi, I’m a Software Professional with **8 months of experience in Manual Testing**, currently transitioning into a **Java Full Stack Developer** role.<br><br>💻 I work with **Java, HTML, CSS, JavaScript, SQL**, and **Git**, focusing on building **responsive frontends** and **reliable backend logic**. My testing background helps me develop applications with a **quality-first and user-centric approach**.<br><br>🚀 Currently learning full stack development, building hands-on projects, and improving problem-solving skills.<br><br>🎯 Open to **Frontend, Java, and Full Stack opportunities**, internships, and collaborative projects.<br>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishal__shukla__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-shukla-1818vk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishal.shuklaji45@gmail.com) 
+<img src="https://user-images.githubusercontent.com/74038190/212749726-3d4b6b56-76c3-4e1f-b8c9-2c7bde7a3e8e.gif" width="100%">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codewithvishal-18&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codewithvishal-18&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithvishal-18&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,mysql,bootstrap,nodejs,git,github,figma&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codewithvishal-18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://user-images.githubusercontent.com/74038190/212749726-3d4b6b56-76c3-4e1f-b8c9-2c7bde7a3e8e.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithvishal-18&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=false" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithvishal-18&layout=compact&theme=github_dark_dimmed&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=codewithvishal-18&theme=github-dark-dimmed&hide_border=true" />
+</p>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212749726-3d4b6b56-76c3-4e1f-b8c9-2c7bde7a3e8e.gif" width="100%">
+
+## 🧠 Currently Learning
+- 🔹 Advanced Java & Spring Boot  
+- 🔹 Full Stack Development (MERN / Java Stack)  
+- 🔹 Data Structures & Problem Solving  
+- 🔹 System Design Basics  
+
+---
+
+## 🎯 Goals for 2026
+- 🚀 Land a Full Stack Developer Role  
+- 🧩 Build 5+ Real-World Projects  
+- 📈 Improve DSA & Problem Solving  
+- 🌍 Contribute to Open Source  
+
+---
+<img src="https://user-images.githubusercontent.com/74038190/212749726-3d4b6b56-76c3-4e1f-b8c9-2c7bde7a3e8e.gif" width="100%">
+
+## 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/codewithvishal-18">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithvishal-18&repo=CodeSaarthi-Full-Stack-Full-Confidence&theme=github_dark_dimmed&hide_border=true" />
+</a>
+
+<a href="https://github.com/codewithvishal-18">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithvishal-18&repo=UtilityVerse&theme=github_dark_dimmed&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+### 💡 Project Highlights
+
+#### 🔹 Project 1: CodeSaarthi - A digital Learning Plateform
+- 🚀 Built using: React, JavaScript, Bootstrap
+- 💡 Features: Learning platform UI, topic-based navigation, cheatsheets, DSA & logic-building content
+- 🎯 I learned: Component design, state management, structuring educational content, improving UI/UX 
+- 🔗 Live Demo: https://devsaarthi.vercel.app/  
+- 📂 GitHub: https://github.com/CodeWithVishal-18/CodeSaarthi-Full-Stack-Full-Confidence  
+
+---
+
+#### 🔹 Project 2: UtilityVerse - All Your Daily Tools In One Place
+- 🚀 Built using: React, JavaScript, CSS, Bootstrap
+- 💡 Features: To-Do Manager, Text Formatter, Quiz App, Job Application Tracker, real-time updates, clean responsive dashboard
+- 🎯 I learned: DOM manipulation, event handling, building multi-feature dashboards, managing application state, improving UI/UX
+- 🔗 Live Demo: https://utility-versee.vercel.app/ 
+- 📂 GitHub: https://github.com/CodeWithVishal-18/UtilityVerse 
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212749726-3d4b6b56-76c3-4e1f-b8c9-2c7bde7a3e8e.gif" width="100%">
+
+## 🌐 Connect With Me:
+<p align="center">
+  <a href="https://instagram.com/vishal__shukla__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-shukla-1818vk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vishal.shuklaji45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 *I break things in testing… and fix them in development 😄*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,100:2563eb&height=120&section=footer"/>
+</p>
