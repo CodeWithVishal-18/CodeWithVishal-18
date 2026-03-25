@@ -34,7 +34,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212749726-3d4b6b56-76c3-4e1f-b8c9-2c7bde7a3e8e.gif" width="100%">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithvishal-18&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=false" />
@@ -63,43 +63,6 @@
 - 🧩 Build 5+ Real-World Projects  
 - 📈 Improve DSA & Problem Solving  
 - 🌍 Contribute to Open Source  
-
----
-<img src="https://user-images.githubusercontent.com/74038190/212749726-3d4b6b56-76c3-4e1f-b8c9-2c7bde7a3e8e.gif" width="100%">
-
-## 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/codewithvishal-18">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithvishal-18&repo=CodeSaarthi-Full-Stack-Full-Confidence&theme=github_dark_dimmed&hide_border=true" />
-</a>
-
-<a href="https://github.com/codewithvishal-18">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=codewithvishal-18&repo=UtilityVerse&theme=github_dark_dimmed&hide_border=true" />
-</a>
-
-</p>
-
----
-
-### 💡 Project Highlights
-
-#### 🔹 Project 1: CodeSaarthi - A digital Learning Plateform
-- 🚀 Built using: React, JavaScript, Bootstrap
-- 💡 Features: Learning platform UI, topic-based navigation, cheatsheets, DSA & logic-building content
-- 🎯 I learned: Component design, state management, structuring educational content, improving UI/UX 
-- 🔗 Live Demo: https://devsaarthi.vercel.app/  
-- 📂 GitHub: https://github.com/CodeWithVishal-18/CodeSaarthi-Full-Stack-Full-Confidence  
-
----
-
-#### 🔹 Project 2: UtilityVerse - All Your Daily Tools In One Place
-- 🚀 Built using: React, JavaScript, CSS, Bootstrap
-- 💡 Features: To-Do Manager, Text Formatter, Quiz App, Job Application Tracker, real-time updates, clean responsive dashboard
-- 🎯 I learned: DOM manipulation, event handling, building multi-feature dashboards, managing application state, improving UI/UX
-- 🔗 Live Demo: https://utility-versee.vercel.app/ 
-- 📂 GitHub: https://github.com/CodeWithVishal-18/UtilityVerse 
 
 ---
 
