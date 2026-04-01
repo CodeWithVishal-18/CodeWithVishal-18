@@ -37,13 +37,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=codewithvishal-18&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=false" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=codewithvishal-18&show_icons=true&theme=github_dark_dimmed&hide_border=true" />
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithvishal-18&layout=compact&theme=github_dark_dimmed&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=codewithvishal-18&layout=compact&theme=github_dark_dimmed&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithvishal-18&theme=github-dark-dimmed&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=codewithvishal-18&theme=github-dark-dimmed&hide_border=true&v=1" />
 </p>
 
 ---
