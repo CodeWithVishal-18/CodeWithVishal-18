@@ -11,7 +11,7 @@
 ---
 
 # 💫 About Me:
-👋 Hi, I’m a Software Professional with **8 months of experience in Manual Testing**, currently transitioning into a **Java Full Stack Developer** role.<br><br>💻 I work with **Java, HTML, CSS, JavaScript, SQL**, and **Git**, focusing on building **responsive frontends** and **reliable backend logic**. My testing background helps me develop applications with a **quality-first and user-centric approach**.<br><br>🚀 Currently learning full stack development, building hands-on projects, and improving problem-solving skills.<br><br>🎯 Open to **Frontend, Java, and Full Stack opportunities**, internships, and collaborative projects.<br>
+👋 Hi, I’m a Software Professional with **8 months of experience in Manual Testing**, currently transitioning into a **Java Full Stack Developer** role.<br><br>💻 I work with **Java, React Js, JavaScript, SQL**, and **Git**, focusing on building **responsive frontends** and **reliable backend logic**. My testing background helps me develop applications with a **quality-first and user-centric approach**.<br><br>🚀 Currently learning full stack development, building hands-on projects, and improving problem-solving skills.<br><br>🎯 Open to **Frontend, Java, and Full Stack opportunities**, internships, and collaborative projects.<br>
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 🧠 Currently Learning
 - 🔹 Advanced Java & Spring Boot  
-- 🔹 Full Stack Development (MERN / Java Stack)  
+- 🔹 Full Stack Development (Spring Boot / Java Stack)  
 - 🔹 Data Structures & Problem Solving  
 - 🔹 System Design Basics  
 
