@@ -60,7 +60,7 @@
 
 ## 🎯 Goals for 2026
 - 🚀 Land a Full Stack Developer Role  
-- 🧩 Build 5+ Real-World Projects  
+- 🧩 Build 7+ Real-World Projects  
 - 📈 Improve DSA & Problem Solving  
 - 🌍 Contribute to Open Source  
 
