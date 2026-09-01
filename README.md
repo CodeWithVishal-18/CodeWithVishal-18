@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Shukla</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=60A5FA&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Frontend+Developer;Ex-Manual+Tester;Always+Learning+New+Things🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=60A5FA&center=true&vCenter=true&lines=Java+Full+Stack+Developer;Frontend+Developer;Lecturer+In+SR+University;Ex-Manual+Tester;Always+Learning+New+Things🚀" />
 </h3>
 
 ---
